@@ -1,0 +1,27 @@
+{
+  "name": "careerex-week7",
+  "version": "1.0.0",
+  "description": "Lost & Found System",
+  "main": "CareerEx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node CareerEx.js",
+    "dev": "nodemon CareerEx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chachi444/CareerEx-week7.git"
+  },
+  "keywords": [],
+  "author": "Charity Godwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chachi444/CareerEx-week7/issues"
+  },
+  "homepage": "https://github.com/Chachi444/CareerEx-week7#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2",
+    "nodemon": "^3.1.10"
+  }
+}
